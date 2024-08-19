@@ -1,5 +1,5 @@
-fastapi[all]~=0.112.1
+fastapi[all]
 uvicorn[standard]
-sqlalchemy~=2.0.32
+sqlalchemy
 
-pydantic~=2.8.2
+pydantic
