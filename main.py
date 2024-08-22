@@ -24,7 +24,7 @@ def get_db():
 
 @app.get("/")
 def index():
-    return {"message": "Hello World"}
+    return {"message": "Hello Fucking World!"}
 
 
 @app.post("/users/", response_model=schemas.User)
